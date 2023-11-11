@@ -1,6 +1,5 @@
 # painter-C#
 
-
 ## Introduction
 
 Painter is a Windows Forms application developed in C# that seamlessly blends the principles of object-oriented programming, showcasing a robust implementation of classes, inheritance, and polymorphism.
