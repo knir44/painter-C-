@@ -28,10 +28,17 @@ Mission_unit and ShapeList are independent classes.
 ## Key Learnings
 By developing this project, i have gained experience in the following areas:
 
-Class Hierarchy and Inheritance:Clear class hierarchy and inheritance relationships provide a structured codebase, enhancing code reuse and maintainability.
-Graphical User Interface (GUI) Design:Developed proficiency in creating visually appealing and interactive user interfaces using Windows Forms
-Event-Driven Programming:Learned the principles of event-driven programming, where user actions or system events trigger specific responses within the application.
-Code Organization:The organization of classes into a logical hierarchy and the use of inheritance contribute to a well-structured codebase.
+#### Class Hierarchy and Inheritance:
+Clear class hierarchy and inheritance relationships provide a structured codebase, enhancing code reuse and maintainability.
+
+#### Graphical User Interface (GUI) Design:
+Developed proficiency in creating visually appealing and interactive user interfaces using Windows Forms.
+
+#### Event-Driven Programming:
+Learned the principles of event-driven programming, where user actions or system events trigger specific responses within the application.
+
+#### Code Organization:
+The organization of classes into a logical hierarchy and the use of inheritance contribute to a well-structured codebase.
 
 
 
