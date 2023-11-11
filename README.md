@@ -1,6 +1,5 @@
 # painter-C#
 
-One Paragraph of project description goes here
 
 ## Introduction
 
